@@ -10,7 +10,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb7ba86e-9727-4bde-9f46-84e2a52b561c" name="Default Changelist" comment="" />
+    <list default="true" id="fb7ba86e-9727-4bde-9f46-84e2a52b561c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +90,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Kotlin" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="PsdUISettings">
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
@@ -328,7 +330,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="Added 3 activies for part 2" />
     <MESSAGE value="Finished Part 3" />
@@ -385,10 +391,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="318" y="151" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1602396480720" />
-    <state x="64" y="13" key="SettingsEditor" timestamp="1600881871076">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="245" y="108" key="SettingsEditor" timestamp="1602479482500">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="64" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600881871076" />
+    <state x="245" y="108" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602479482500" />
     <state x="392" y="172" key="Vcs.Push.Dialog.v2" timestamp="1602475525869">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
